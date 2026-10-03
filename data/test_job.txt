@@ -1,0 +1,27 @@
+Data Science Intern
+
+We are looking for a Data Science Intern to join our team.
+
+Requirements:
+- Currently pursuing a Bachelor's degree in Data Science, Computer Science,
+  Statistics, or a related field.
+- Strong Python programming skills.
+- Experience with Pandas and NumPy.
+- Knowledge of SQL.
+- Understanding of machine learning concepts.
+- Experience with data visualization using Matplotlib or similar tools.
+- Familiarity with Git.
+
+Preferred:
+- Experience with Scikit-learn.
+- Experience building machine learning projects.
+- Knowledge of Streamlit.
+- Familiarity with Generative AI.
+
+Responsibilities:
+- Clean and preprocess datasets.
+- Perform exploratory data analysis.
+- Build and evaluate machine learning models.
+- Create data visualizations.
+- Write SQL queries.
+- Communicate analytical findings to the team.

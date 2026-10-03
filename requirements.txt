@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pymupdf
+google-genai
+langchain
+langgraph
+langchain-google-genai
+reportlab
+pandas
